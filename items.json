@@ -1,0 +1,41 @@
+{
+    
+    "items": [
+        {
+            "id": "1",
+            "name": "iPHone 4S",
+            "price": "300.00",
+            "description": "iPhone 4S white"
+        },
+		{
+            "id": "1",
+            "name": "iPHone 5S",
+            "price": "400.00",
+            "description": "iPhone 4S white"
+        },
+		{
+            "id": "1",
+            "name": "iPHone 6S",
+            "price": "500.00",
+            "description": "iPhone 4S white"
+        },
+		{
+            "id": "1",
+            "name": "iPHone 7S",
+            "price": "600.00",
+            "description": "iPhone 4S white"
+        },
+		{
+            "id": "1",
+            "name": "iPHone 6S Plus",
+            "price": "700.00",
+            "description": "iPhone 4S white"
+        },
+		{
+            "id": "1",
+            "name": "iPHone 7S Plus",
+            "price": "800.00",
+            "description": "iPhone 4S white"
+        }
+    ]
+}
