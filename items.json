@@ -1,6 +1,4 @@
-{
-    
-    "items": [
+[
         {
             "id": "1",
             "name": "iPHone 4S",
@@ -38,4 +36,3 @@
             "description": "iPhone 4S white"
         }
     ]
-}
